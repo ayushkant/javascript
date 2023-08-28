@@ -1,2 +1,5 @@
 # javascript
-Useful JavaScript snippets
+Useful JavaScript snippets:
+
+CopyrightYear.html has automatic Year display in Copyright section of Footer
+
